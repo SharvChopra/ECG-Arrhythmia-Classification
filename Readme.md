@@ -47,7 +47,7 @@ Explainable AI
 
 ## Evaluation Metrics
 
-Primary Metric - Macro-F1 Score (handles class imbalance)
-Secondary Metrics - Precision, Recall (Sensitivity)
-Validation Strategy- 5-fold patient-wise cross-validation
+ - Primary Metric - Macro-F1 Score (handles class imbalance)
+ - Secondary Metrics - Precision, Recall (Sensitivity)
+ - Validation Strategy- 5-fold patient-wise cross-validation
 
